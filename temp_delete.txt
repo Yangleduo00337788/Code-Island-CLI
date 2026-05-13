@@ -1,0 +1,264 @@
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
+    def get_after_input():
+        """Get the text to display after input."""
+        return FormattedText([
+            ('class:container.border', '\n  │                                     │'),
+        ])
+
